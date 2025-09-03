@@ -13,7 +13,7 @@ I already now a good amount of Python R and Git but I'm really motivated to lear
 Informatic is starting to take a big big part af data analysis, and even more in sports or in other sectors where good performances are  crucials (like health, finance, ...)
 
 
-![Image sur mon PC](Images/spiderman_clooney_obama.jpg)
+![Image sur mon PC](C:/Images/spiderman_clooney_obama.jpg)
 
 
 CONCLUSION:
